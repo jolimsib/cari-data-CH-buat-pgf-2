@@ -1,8 +1,9 @@
 [masih berantakan belum diperbaiki lagi]
 
 1. Pakai data yang diperoleh dari website sacad.bmkg.go.id atau bisa mengakses data dari bit.ly/DataCHPGF2
-2. Rename ```SACA_blend_rr/RR_STAID003120a.csv``` dengan nama folder dan file yang digunakan
-3. Rename
+2. Rename ```SACA_blend_rr/RR_STAID003120a.txt``` dengan nama folder dan file yang digunakan
+3. Sesuaikan semua path file dan folder yang digunakan
+4. Rename
    ```
    "1. Ananda : STAID 1532
    2. Salma : STAID 2623
